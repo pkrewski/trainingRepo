@@ -1,0 +1,4 @@
+{"retailer_name":"Retailer3","store_num":"001","trade_area_name":"TA1"}
+{"retailer_name":"Retailer3","store_num":"002","trade_area_name":"TA1"}
+{"retailer_name":"Retailer4","store_num":"001","trade_area_name":"TA1"}
+{"retailer_name":"Retailer4","store_num":"002","trade_area_name":"TA2"}

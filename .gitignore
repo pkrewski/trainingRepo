@@ -1,0 +1,6 @@
+*.iml
+*.swp
+target/
+.idea/
+*.log
+metastore_db/
